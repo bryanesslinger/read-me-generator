@@ -71,13 +71,13 @@ const contactInfo = `If you have any questions, please contact [${answers.contri
 ${answers.description}
 
 # Table of Contents
-- [Description](##description)
-- [Installation](##installation)
-- [Usage](##usage)
-- [License](##license)
-- [Contributors](##contributors)
-- [Tests](##tests)
-- [Questions](##questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributors](#contributors)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${answers.installation}
